@@ -1,1 +1,6 @@
 # MY-SUSI-BOT
+<html>
+  <body>
+    <script type='text/javascript' id='susi-bot-script' data-userid='9abbfa0526bacae46c9f900bcac3c9ab' data-group='Knowledge' data-language='en' data-skill='Krishna' src='https://susi.ai/susi-chatbot.js'></script>
+  </body>
+  </html>
